@@ -36,7 +36,6 @@ public class ArrayList {
         sum+=num;
         return true;
     }
-    //hi i am nikhil
     //are u raedy
 
     /// Add this code to master via pull request
